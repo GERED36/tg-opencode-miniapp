@@ -1,0 +1,10 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+*.log
+user_sessions.json
+bot_files/
+agent_output.txt
+agent_error.txt
